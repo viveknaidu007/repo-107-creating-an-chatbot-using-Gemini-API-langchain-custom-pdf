@@ -1,0 +1,7 @@
+nltk
+sentence-transformers
+pdfminer.six
+langchain-community
+langchain-google-genai
+langchain
+transformers
